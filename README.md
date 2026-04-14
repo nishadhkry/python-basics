@@ -3,10 +3,11 @@
 This repository contains my Python basics practice using Jupyter Notebooks.
 
 ## Topics Covered
-- List and Tuple
-- Functions and OOP concepts
-- Lambda and Map
 - Basic Assignments
+- - Functions and OOP concepts
+- List and Tuple
+- Lambda and Map
+
 
 ## Files
 - Assignment Practice
