@@ -4,7 +4,7 @@ This repository contains my Python basics practice using Jupyter Notebooks.
 
 ## Topics Covered
 - Basic Assignments
-- - Functions and OOP concepts
+- Functions and OOP concepts
 - List and Tuple
 - Lambda and Map
 
@@ -14,6 +14,7 @@ This repository contains my Python basics practice using Jupyter Notebooks.
 - List & Tuple Basics
 - Functions in OOP
 - Lambda and Map Concepts
+- OOP concepts: encapsulation, polymorphism, and abstraction
 
 ## Goal
 To build strong Python fundamentals for Data Engineering.
